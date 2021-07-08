@@ -1,3 +1,8 @@
+'''
+Developed by: Zaahier Adams
+https://github.com/ZaahierAdams
+'''
+
 import os
 import shutil
 import time
